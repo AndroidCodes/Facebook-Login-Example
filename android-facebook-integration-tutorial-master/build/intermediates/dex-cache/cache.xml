@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/peacock/Android/android/android-sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/pre-dexed/debug/support-v4-19.1.0_212c58d3846e7a9db06065e8237d4fa8efd15cfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c05921609b3728d21575787b1606fb23c653b3d9">
+        <dex dex="/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/pre-dexed/debug/classes_a77da72f9b8b7d753cdbe1c6f87ab6900a5ba30d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookDemo/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3_05572e10419eb9ad6673d9edfd5e892a880417e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/bundles/default/libs/bolts-android-1.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7b469c3daeb365261419cebcc3d8ef2ad31b00e">
+        <dex dex="/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/pre-dexed/debug/bolts-android-1.1.2_732092715628bc72c1da34cd69c92375abc68ee1.jar" />
+    </item>
+
+</items>

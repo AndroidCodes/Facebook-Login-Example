@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_button_blue_normal.9.png",
+        "source": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_button_blue_focused.9.png",
+        "source": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png",
+        "source": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png",
+        "source": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png",
+        "source": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png",
+        "source": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png",
+        "source": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png",
+        "source": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png",
+        "source": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png",
+        "source": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_picker_magnifier.png",
+        "source": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_picker_magnifier.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_button_blue_pressed.9.png",
+        "source": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_inverse_icon.png",
+        "source": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_inverse_icon.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/drawable-hdpi/defaultimage.png",
+        "source": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookDemo/src/main/res/drawable-hdpi/defaultimage.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookDemo/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/peacock/Downloads/android-facebook-integration-tutorial-master/facebookDemo/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
